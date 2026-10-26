@@ -29,3 +29,7 @@ Dayline/
 └── Assets.xcassets       # app icon, accent color
 project.yml               # XcodeGen spec
 ```
+
+## License
+
+[MIT](LICENSE)
